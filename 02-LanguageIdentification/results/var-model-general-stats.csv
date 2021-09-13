@@ -1,0 +1,9 @@
+name,Embedding_size,RNN_hidden_size,Batch_size,epochs,Pooling layer,Comentaris,Train acc final,Test acc public
+BASELINE,64,256,256,25,Max,-Inf' padding,98.924,93.866
+model1,128,256,256,25,Mean,-Inf' padding replaced by 0,89.669,87.202
+model2,128,256,256,25,Max,0 padding,99.477,93.906
+model3,128,256,256,25,Max,-Inf' padding,98.711,93.554
+model4,128,256,256,25,Max and mean,0 padding. Addition,99.672,93.148
+model5,128,256,256,25,Max and mean,0 padding. Concatenate,99.475,93.54
+model6,128,256,256,25,Max,0 padding. Bidirectional. Dropout 0.15,99.479,94.78
+model7,128,256,256,25,Max,0 padding. GRU,98.082,93.463

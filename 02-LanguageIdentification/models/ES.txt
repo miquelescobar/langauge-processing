@@ -1,0 +1,71 @@
+| epoch 001 | train accuracy=55.1% (75s)
+| epoch 001 | valid accuracy=83.3%
+Validation loss decreased (inf --> 0.824014).  Saving model ...
+| epoch 002 | train accuracy=86.4% (154s)
+| epoch 002 | valid accuracy=88.8%
+Validation loss decreased (0.824014 --> 0.498306).  Saving model ...
+| epoch 003 | train accuracy=90.4% (233s)
+| epoch 003 | valid accuracy=90.7%
+Validation loss decreased (0.498306 --> 0.387254).  Saving model ...
+| epoch 004 | train accuracy=92.1% (312s)
+| epoch 004 | valid accuracy=91.9%
+Validation loss decreased (0.387254 --> 0.337744).  Saving model ...
+| epoch 005 | train accuracy=93.3% (392s)
+| epoch 005 | valid accuracy=92.2%
+Validation loss decreased (0.337744 --> 0.312380).  Saving model ...
+| epoch 006 | train accuracy=94.0% (471s)
+| epoch 006 | valid accuracy=92.7%
+Validation loss decreased (0.312380 --> 0.285686).  Saving model ...
+| epoch 007 | train accuracy=94.8% (551s)
+| epoch 007 | valid accuracy=93.2%
+Validation loss decreased (0.285686 --> 0.268810).  Saving model ...
+| epoch 008 | train accuracy=95.3% (630s)
+| epoch 008 | valid accuracy=93.6%
+Validation loss decreased (0.268810 --> 0.260830).  Saving model ...
+| epoch 009 | train accuracy=95.9% (709s)
+| epoch 009 | valid accuracy=93.7%
+Validation loss decreased (0.260830 --> 0.256426).  Saving model ...
+| epoch 010 | train accuracy=96.1% (789s)
+| epoch 010 | valid accuracy=93.8%
+Validation loss decreased (0.256426 --> 0.249548).  Saving model ...
+| epoch 011 | train accuracy=96.7% (868s)
+| epoch 011 | valid accuracy=93.8%
+Validation loss decreased (0.249548 --> 0.243792).  Saving model ...
+| epoch 012 | train accuracy=97.1% (946s)
+| epoch 012 | valid accuracy=93.7%
+Validation loss decreased (0.243792 --> 0.242663).  Saving model ...
+| epoch 013 | train accuracy=97.5% (1026s)
+| epoch 013 | valid accuracy=94.0%
+Validation loss decreased (0.242663 --> 0.237635).  Saving model ...
+| epoch 014 | train accuracy=97.8% (1105s)
+| epoch 014 | valid accuracy=94.0%
+EarlyStopping counter: 1 out of 8
+| epoch 015 | train accuracy=97.8% (1184s)
+| epoch 015 | valid accuracy=94.2%
+Validation loss decreased (0.237635 --> 0.234599).  Saving model ...
+| epoch 016 | train accuracy=98.3% (1263s)
+| epoch 016 | valid accuracy=94.3%
+Validation loss decreased (0.234599 --> 0.232837).  Saving model ...
+| epoch 017 | train accuracy=98.7% (1342s)
+| epoch 017 | valid accuracy=94.3%
+EarlyStopping counter: 1 out of 8
+| epoch 018 | train accuracy=98.9% (1421s)
+| epoch 018 | valid accuracy=94.3%
+EarlyStopping counter: 2 out of 8
+| epoch 019 | train accuracy=99.0% (1500s)
+| epoch 019 | valid accuracy=94.3%
+EarlyStopping counter: 3 out of 8
+| epoch 020 | train accuracy=99.2% (1580s)
+| epoch 020 | valid accuracy=94.3%
+EarlyStopping counter: 4 out of 8
+| epoch 021 | train accuracy=99.3% (1659s)
+| epoch 021 | valid accuracy=94.3%
+EarlyStopping counter: 5 out of 8
+| epoch 022 | train accuracy=99.2% (1738s)
+| epoch 022 | valid accuracy=94.4%
+EarlyStopping counter: 6 out of 8
+| epoch 023 | train accuracy=99.4% (1817s)
+| epoch 023 | valid accuracy=94.4%
+EarlyStopping counter: 7 out of 8
+| epoch 024 | train accuracy=99.6% (1896s)
+| epoch 024 | valid accuracy=94.4%

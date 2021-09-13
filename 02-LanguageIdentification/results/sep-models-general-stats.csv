@@ -1,0 +1,4 @@
+name,Paraules,Frases,embedding,hidden size 1,hidden size 2,Batch_size,Train acc final,Test acc public
+LSTM-LSTM,LSTM,LSTM,64,64,128,32,94.80%,94.30%
+CNN_LSTM,CNN,LSTM,64,128,256,128,95.70%,92.90%
+CNN_CNN,CNN,CNN,64,256,512,128,97.70%,93.40%

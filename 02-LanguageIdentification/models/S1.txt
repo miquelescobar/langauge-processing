@@ -1,0 +1,180 @@
+| epoch 001 | train accuracy=27.1% (257s)
+62.11631205673759
+| epoch 001 | valid accuracy=62.1%
+| epoch 002 | train accuracy=66.9% (543s)
+80.13617021276596
+| epoch 002 | valid accuracy=80.1%
+| epoch 003 | train accuracy=78.3% (832s)
+85.54326241134751
+| epoch 003 | valid accuracy=85.5%
+| epoch 004 | train accuracy=82.8% (1121s)
+88.17021276595744
+| epoch 004 | valid accuracy=88.2%
+| epoch 005 | train accuracy=85.5% (1409s)
+89.35602836879433
+| epoch 005 | valid accuracy=89.4%
+| epoch 006 | train accuracy=87.1% (1698s)
+89.9404255319149
+| epoch 006 | valid accuracy=89.9%
+| epoch 007 | train accuracy=88.4% (1990s)
+90.62127659574467
+| epoch 007 | valid accuracy=90.6%
+| epoch 008 | train accuracy=89.3% (2281s)
+91.35886524822695
+| epoch 008 | valid accuracy=91.4%
+| epoch 009 | train accuracy=89.9% (2563s)
+91.81843971631206
+| epoch 009 | valid accuracy=91.8%
+| epoch 010 | train accuracy=90.4% (2843s)
+91.96028368794326
+| epoch 010 | valid accuracy=92.0%
+| epoch 011 | train accuracy=91.0% (3125s)
+92.0
+| epoch 011 | valid accuracy=92.0%
+| epoch 012 | train accuracy=91.2% (3412s)
+92.24964539007092
+| epoch 012 | valid accuracy=92.2%
+| epoch 013 | train accuracy=91.5% (3695s)
+92.71489361702127
+| epoch 013 | valid accuracy=92.7%
+| epoch 014 | train accuracy=91.9% (3980s)
+92.78297872340426
+| epoch 014 | valid accuracy=92.8%
+| epoch 015 | train accuracy=92.0% (4266s)
+92.87943262411348
+| epoch 015 | valid accuracy=92.9%
+| epoch 016 | train accuracy=92.2% (4552s)
+92.89645390070922
+| epoch 016 | valid accuracy=92.9%
+| epoch 017 | train accuracy=92.5% (4838s)
+93.06666666666666
+| epoch 017 | valid accuracy=93.1%
+| epoch 018 | train accuracy=92.6% (5125s)
+92.95886524822696
+| epoch 018 | valid accuracy=93.0%
+| epoch 019 | train accuracy=92.7% (5414s)
+93.10070921985816
+| epoch 019 | valid accuracy=93.1%
+| epoch 020 | train accuracy=93.0% (5702s)
+93.15744680851064
+| epoch 020 | valid accuracy=93.2%
+| epoch 021 | train accuracy=93.0% (5986s)
+93.20851063829787
+| epoch 021 | valid accuracy=93.2%
+| epoch 022 | train accuracy=93.2% (6269s)
+93.25390070921986
+| epoch 022 | valid accuracy=93.3%
+| epoch 023 | train accuracy=93.1% (6555s)
+93.33333333333333
+| epoch 023 | valid accuracy=93.3%
+| epoch 024 | train accuracy=93.4% (6839s)
+93.58297872340425
+| epoch 024 | valid accuracy=93.6%
+| epoch 025 | train accuracy=93.4% (7125s)
+93.32765957446809
+| epoch 025 | valid accuracy=93.3%
+| epoch 026 | train accuracy=93.5% (7411s)
+93.53191489361703
+| epoch 026 | valid accuracy=93.5%
+| epoch 027 | train accuracy=93.5% (7699s)
+93.49219858156029
+| epoch 027 | valid accuracy=93.5%
+| epoch 028 | train accuracy=93.6% (7986s)
+93.32765957446809
+| epoch 028 | valid accuracy=93.3%
+| epoch 029 | train accuracy=93.8% (8274s)
+93.42978723404255
+| epoch 029 | valid accuracy=93.4%
+| epoch 030 | train accuracy=93.8% (8559s)
+93.53191489361703
+| epoch 030 | valid accuracy=93.5%
+| epoch 031 | train accuracy=93.8% (8845s)
+93.54893617021277
+| epoch 031 | valid accuracy=93.5%
+| epoch 032 | train accuracy=93.9% (9136s)
+93.63971631205673
+| epoch 032 | valid accuracy=93.6%
+| epoch 033 | train accuracy=93.9% (9427s)
+93.67943262411347
+| epoch 033 | valid accuracy=93.7%
+| epoch 034 | train accuracy=94.1% (9718s)
+93.71347517730497
+| epoch 034 | valid accuracy=93.7%
+| epoch 035 | train accuracy=94.0% (10008s)
+93.86666666666666
+| epoch 035 | valid accuracy=93.9%
+| epoch 036 | train accuracy=94.2% (10299s)
+93.51489361702127
+| epoch 036 | valid accuracy=93.5%
+| epoch 037 | train accuracy=94.2% (10594s)
+93.78156028368794
+| epoch 037 | valid accuracy=93.8%
+| epoch 038 | train accuracy=94.1% (10889s)
+93.7645390070922
+| epoch 038 | valid accuracy=93.8%
+| epoch 039 | train accuracy=94.3% (11184s)
+93.91205673758866
+| epoch 039 | valid accuracy=93.9%
+| epoch 040 | train accuracy=94.2% (11481s)
+93.66241134751773
+| epoch 040 | valid accuracy=93.7%
+| epoch 041 | train accuracy=94.4% (11775s)
+93.7985815602837
+| epoch 041 | valid accuracy=93.8%
+| epoch 042 | train accuracy=94.4% (12062s)
+93.88936170212766
+| epoch 042 | valid accuracy=93.9%
+| epoch 043 | train accuracy=94.4% (12346s)
+93.69078014184397
+| epoch 043 | valid accuracy=93.7%
+| epoch 044 | train accuracy=94.4% (12628s)
+93.7872340425532
+| epoch 044 | valid accuracy=93.8%
+| epoch 045 | train accuracy=94.4% (12912s)
+93.74751773049645
+| epoch 045 | valid accuracy=93.7%
+| epoch 046 | train accuracy=94.6% (13196s)
+93.9404255319149
+| epoch 046 | valid accuracy=93.9%
+| epoch 047 | train accuracy=94.5% (13479s)
+93.80992907801418
+| epoch 047 | valid accuracy=93.8%
+| epoch 048 | train accuracy=94.5% (13762s)
+93.85531914893618
+| epoch 048 | valid accuracy=93.9%
+| epoch 049 | train accuracy=94.5% (14046s)
+94.00851063829788
+| epoch 049 | valid accuracy=94.0%
+| epoch 050 | train accuracy=94.6% (14330s)
+94.03687943262412
+| epoch 050 | valid accuracy=94.0%
+| epoch 051 | train accuracy=94.7% (14614s)
+93.96879432624114
+| epoch 051 | valid accuracy=94.0%
+| epoch 052 | train accuracy=94.8% (14894s)
+93.80992907801418
+| epoch 052 | valid accuracy=93.8%
+| epoch 053 | train accuracy=94.8% (15175s)
+94.16170212765958
+| epoch 053 | valid accuracy=94.2%
+| epoch 054 | train accuracy=94.7% (15456s)
+94.04255319148936
+| epoch 054 | valid accuracy=94.0%
+| epoch 055 | train accuracy=94.8% (15737s)
+94.12198581560284
+| epoch 055 | valid accuracy=94.1%
+| epoch 056 | train accuracy=94.7% (16016s)
+93.90070921985816
+| epoch 056 | valid accuracy=93.9%
+| epoch 057 | train accuracy=94.8% (16296s)
+94.02553191489362
+| epoch 057 | valid accuracy=94.0%
+| epoch 058 | train accuracy=94.8% (16576s)
+94.00283687943262
+| epoch 058 | valid accuracy=94.0%
+| epoch 059 | train accuracy=94.9% (16856s)
+94.0822695035461
+| epoch 059 | valid accuracy=94.1%
+| epoch 060 | train accuracy=94.8% (17135s)
+94.0822695035461
+| epoch 060 | valid accuracy=94.1%
